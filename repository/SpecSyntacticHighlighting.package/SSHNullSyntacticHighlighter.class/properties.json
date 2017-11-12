@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JulienDelplanque 11/12/2017 21:30",
+	"super" : "SSHSyntacticHighlighter",
+	"category" : "SpecSyntacticHighlighting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSHNullSyntacticHighlighter",
+	"type" : "normal"
+}

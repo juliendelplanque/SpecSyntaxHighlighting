@@ -1,0 +1,3 @@
+api
+syntacticHighlighter: aSSHSyntacticHighlighter
+	syntacticHighlighterHolder value: aSSHSyntacticHighlighter

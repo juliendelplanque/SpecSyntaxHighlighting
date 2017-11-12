@@ -1,0 +1,1 @@
+A TextModel supporting custom syntactic highlighting.

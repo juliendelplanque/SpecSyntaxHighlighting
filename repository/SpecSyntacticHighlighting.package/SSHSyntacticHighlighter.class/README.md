@@ -1,0 +1,1 @@
+I am an abstract syntactic highlighter. My subclasses should override #highlight: that, given a Text instance as input, highlights it.

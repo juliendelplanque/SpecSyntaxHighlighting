@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JulienDelplanque 11/12/2017 21:32",
+	"super" : "SSHSyntacticHighlighter",
+	"category" : "SpecSyntacticHighlighting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"regexToTextAttribute"
+	],
+	"name" : "SSHRegexSyntacticHighlighter",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JulienDelplanque 11/12/2017 21:33",
+	"super" : "TextModel",
+	"category" : "SpecSyntacticHighlighting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"syntacticHighlighterHolder"
+	],
+	"name" : "SSHTextModel",
+	"type" : "normal"
+}
