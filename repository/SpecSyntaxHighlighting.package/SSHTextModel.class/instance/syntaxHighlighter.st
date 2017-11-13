@@ -1,0 +1,3 @@
+api
+syntaxHighlighter
+	^ syntaxHighlighterHolder value

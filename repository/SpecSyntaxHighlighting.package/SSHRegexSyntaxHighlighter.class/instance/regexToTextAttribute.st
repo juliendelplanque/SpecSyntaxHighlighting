@@ -1,0 +1,3 @@
+accessing
+regexToTextAttribute
+	^ regexToTextAttribute
